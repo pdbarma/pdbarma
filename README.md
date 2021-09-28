@@ -2,12 +2,12 @@
     
 <div align="left" Profile.exe>
 
-:star: Currently learning 3D Modelling & data structures   
-:star: Studying the laws of Attraction   
-:crescent_moon: Self Taught 2D/3D/Realist Artist  
-:crescent_moon: Entreprenuer in making  
-📫 pdbarma01@gmail.com   
-:cloud: Finding a cure for Procastination    
+Currently learning 3D Modelling & data structures   
+Studying the laws of Attraction   
+Self Taught 2D/3D/Realist Artist  
+Entreprenuer in making  
+mail::pdbarma01@gmail.com   
+Currently finding a cure for procastination    
 Website : n/a  
 Profile : Underconstruction...
     
