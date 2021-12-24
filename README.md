@@ -10,9 +10,7 @@ Research Interests: Machine Learning
 I would like to create a self concious NPC within the AI world/A game
   
     
-Languages & Tools  
-  
----  
+<h5 align="left">Languages & Tools</h5>    
     
 - c,c++,html  
 - vscode,blender,gitkraken,git
