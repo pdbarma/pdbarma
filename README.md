@@ -13,6 +13,6 @@ I would like to create a self concious NPC within the AI world/A game
 <h5 align="left">Languages & Tools</h5>    
     
 - c,c++,html  
-- vscode,blender,gitkraken,git
+- vscode,blender,Unity engine(2D/3D),gitkraken,git
     
 </div>
