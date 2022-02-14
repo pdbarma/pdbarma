@@ -3,7 +3,7 @@
 <div align="left" Profile.exe>
 
 Currently learning 3D Modelling & data structures.   
-Interest in exploring the mysteries of the universe but sike we only live upto 70 years old Sadge being a human.  
+Interest in exploring the mysteries of the universe.  
 
   
 Research Interests: Machine Learning  
