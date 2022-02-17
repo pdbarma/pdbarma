@@ -7,7 +7,7 @@ Interest in exploring the mysteries of the universe.
 
   
 Research Interests: Machine Learning  
-I would like to create a self concious NPC within the AI world/A game
+I would like to create something new
   
     
 <h5 align="left">Languages & Tools</h5>    
