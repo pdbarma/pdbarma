@@ -2,8 +2,7 @@
     
 <div align="left" Profile.exe>
 
-Currently learning 3D Modelling, web development & data structures.   
-Interest in exploring the mysteries of the universe.  
+Currently learning 3D Modelling, web development & data structures.     
 
   
 Research Interests: Speech recognition  
