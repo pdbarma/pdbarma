@@ -1,15 +1,19 @@
-<h4 align="center" >Hi I am Pirsa </br> NIT Agartala CSE'24</h5> 
+<h4 align="center" >Hi I am Pirsa Debbarma</br> NIT Agartala CSE'24</h5> 
     
 <div align="left" Profile.exe>
 
-Currently learning 3D Modelling & data structures.   
+Currently learning 3D Modelling, web development & data structures.   
 Interest in exploring the mysteries of the universe.  
 
   
-Research Interests: Machine Learning  
+Research Interests: Speech recognition  
 I would like to create something new
   
     
+<h5 align="left">I am a OPEN-SOURCE Enthusiast as I use & want to contribute to more open source projects</h5>
+<h5 align="left">Notable Open-Source Applications that I generally work on :Blender, GIMP, INKSCAPE,KRITA</h5>
+
+
 <h5 align="left">Languages & Tools</h5>    
     
 - c,c++,html  
@@ -18,7 +22,7 @@ I would like to create something new
 ---  
   
 others:
-- photoshop, Clip Art Studio
+- photoshop, Clip Art Studio, GIMP, Inkscape, krita
 - premiere pro
 - obs
     
