@@ -16,13 +16,14 @@ I would like to create something new
 <h5 align="left">Languages & Tools</h5>    
     
 - c,c++,html  
-- vscode,blender,Autodesk F360,Unity engine(2D/3D),gitkraken,git
+- vscode,blender,Unity engine(2D/3D),git
 
 ---  
   
 others:
-- photoshop, Clip Art Studio, GIMP, Inkscape, krita
-- premiere pro
+- GIMP, Inkscape, krita
+- premiere pro, Clip Art Studio
+- Autodesk F360
 - obs
     
 </div>
