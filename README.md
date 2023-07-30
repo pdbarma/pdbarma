@@ -3,6 +3,4 @@
 <div align="left" Profile.exe>
 
 Working on web development personal projects...
-If you want to see some of my works you can refer to my repository for projects : [Link](https://github.com/pdbarma/pdbarma.github.io)
-    
 </div>
