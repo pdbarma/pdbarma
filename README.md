@@ -2,5 +2,5 @@
     
 <div align="left" Profile.exe>
 
-Working on web development personal projects...
+Working on personal projects...
 </div>
