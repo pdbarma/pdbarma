@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Personal Projects  
-- 🌱 I’m currently learning Neural Networks & Exploring Data Structures  
+- 🌱 I’m learning Neural Networks & Exploring Data Structures  
 - 🗣️ I speak English, Hindi , Kokborok and I am currently learning Japanese 🇯🇵 & Mandarin 🇨🇳  
 - 🐣 Beyond Coding: Graphic Designing , Video Editing , Photography  
 - ✉️ pdbarma01@gmail.com  
