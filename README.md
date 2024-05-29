@@ -1,4 +1,4 @@
-🔭 I’m currently working on Personal Projects<br>🌱 learning Neural Networks & Game Designing<br>🗣️ I speak English, Hindi , Kokborok and I am currently learning Japanese 🇯🇵 & Mandarin 🇨🇳<br>⚡ Beyond Coding I do Graphic Designing ,Video Editing ,Photography<br>✉️ Mail me at pdbarma01@gmail.com<br>
+🔭 I’m currently working on Personal Projects &<br>🗣️ I speak English, Hindi , Kokborok and I am currently learning Japanese 🇯🇵<br>⚡ Beyond Coding I do Graphic Designing ,Video Editing ,Photography<br>✉️ Mail me at pdbarma01@gmail.com<br>
 
 
 ## 🌐 Socials:
